@@ -1,0 +1,18 @@
+- Development Related
+	- ChaiCode
+	- freeCodeCamp
+	- EzSnippet
+	- The Odin Project
+	- UpSkill Mafia
+- ML DL AI
+	- Krish Naik
+	- freeCodeCamp
+	- CampusX
+	- CS229 Stanford
+	- Priya Bhatia
+	- 3 Blue 1 Brown
+	- Joshua Stramer
+- Python and Programming Related
+	- Tech With Tim
+	- GFG
+	- CS50

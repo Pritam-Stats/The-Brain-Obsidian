@@ -25,6 +25,19 @@
 
 ##### Perplexity Link - https://www.perplexity.ai/search/why-i-need-to-learn-sql-_Q65fzPyQyqZYwA.QS3BSA
 
-
+---
+- Date - July 10
+- Platform - #pw 
+- Starting MongoDB
+### Intro
+- DB is a software which gives us an organised way to store manage and retrieve data easily.
+- There are multiple DB Solutions. But there two primary systems of managing DBs.
+	1. Relational (RDBMS)
+		- Stored in Table Format
+		- All interfaces like MySql MS Sql PgSql etc all derived from sql queries. Might not be same but based on sql
+		- ACID Compliance
+	2. NoSql (Non-Relational)
+		- [[MongoDB]], Redis, Cassandra
+		- Every DB has their own way to manage but these are not like query language.
 
 

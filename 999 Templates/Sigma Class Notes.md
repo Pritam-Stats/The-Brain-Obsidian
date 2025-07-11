@@ -1,6 +1,6 @@
-**Topic :  [[]]
-**Created** : {{date}} | {{time}}
-*Tags*: 
+- **Related Topic :  [[]]
+- **Created** : {{date}} | {{time}}
+- *Tags*: 
 
 ---
 

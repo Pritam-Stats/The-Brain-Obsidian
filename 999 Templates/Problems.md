@@ -1,7 +1,7 @@
-**Problem Link** : [Problem Name](Paste the Link)
-**Date** : {{date}}
-**Topic** : [[]]
-**Difficulty** :
+- **Problem Link** : [Problem Name](Paste the Link)
+- **Date** : {{date}}
+- **Topic** : [[]]
+- **Difficulty** :
 
 ---
 ### Summary Description: 
@@ -12,14 +12,14 @@
  
 
 
-## Code (Brute-Force)
+## PseudoCode (Brute-Force)
 ```
 
 ```
 
 
 
-## Code (Optimal)
+## PseudoCode (Optimal)
 ```
 
 ```

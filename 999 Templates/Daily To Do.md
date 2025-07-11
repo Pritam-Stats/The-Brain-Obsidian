@@ -1,22 +1,31 @@
- <i><center>BE RUTHLESSLY POSSESSIVE ABOUT YOUR TIME. THIS IS THE MOST VALUEABLE ASSET YOU HAVE.</center>
- <center>Target: WIN 2 hours from each 4 hour slot of the active day</i></center>
-# Priority 1
+# 08:00 - 12:00 
 - Topic - #
 - [ ] 
 - [ ] 
-- **Time Slot:** #08-12
-# Priority 2
+- **Target:** To learn Activation functions.
+# 12:00 - 16:00
 - Topic - #
 - [ ] 
 - [ ] 
-- **Time Slot:** #20-24
-## Priority 3
+- **Target:** 
+# 16:00 - 20:00
 - [ ] 
 - [ ] 
+- **Target:**
+# 20:00 - 24:00
+- Topic - #
 - [ ] 
+- [ ] 
+- **Target:**
 ### EOD Evaluation
 - **Score out of 10** : 
 - Woke up at - 
 - Slept at - 
+- *Winning Criteria* - $X_{i} \ge 2, \quad \text{where X denotes the no. of hours invested in the i-th slot}, i = 1 (1) 4; X_{i} \in [0, 4]$
 ### Comment on the Day: 
 > 
+
+
+<center><b>Om Krishnaya Vasudevaya Haraye Paramatmane, Pranata: Kleshanashaya Govindaya Namo Namah</b></center>
+
+---

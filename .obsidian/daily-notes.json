@@ -2,5 +2,5 @@
   "autorun": true,
   "format": "MMM D Y, ddd",
   "folder": "001 Daily Tasks",
-  "template": "999 Templates/Daily To Do"
+  "template": "999 Templates/Simple TODO"
 }

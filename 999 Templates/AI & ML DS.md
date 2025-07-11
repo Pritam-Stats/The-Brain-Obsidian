@@ -1,6 +1,6 @@
-**Parent Topic** : [[]]
-**Created** : {{date}} | {{time}}
-**Platform** :
+- **Related Topic** : [[]]
+- **Created** : {{date}} | {{time}}
+- **Platform** :
 
 ---
 

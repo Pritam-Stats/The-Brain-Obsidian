@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "ad727a191b23de09",
+    "type": "split",
+    "children": [
+      {
+        "id": "0456e6a99081c779",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb861244f8803cc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Templates/Daily To Do.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily To Do"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e94e9c6ef1d87c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7735047be8a51578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa1329cb4f57f56b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bfaa4841b8314d3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f47df8b0eb89abd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4dceb438958c66b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea62638be7513607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b935d33fa2a0fb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "960c70e8879fefb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-12-04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-12-04"
+            }
+          },
+          {
+            "id": "da9d284ade1a2b64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f21b90e71e59aac2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-12-04.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-12-04"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "fb861244f8803cc2",
+  "lastOpenFiles": [
+    "999 Templates/Simple TODO.md",
+    "999 Templates/Daily To Do.md",
+    "001 Daily Tasks/Jun 27 2025, Fri.md",
+    "001 Daily Tasks/Jun 23 2025, Mon.md",
+    "001 Daily Tasks/Jun 24 2025, Tue.md",
+    "100 ML DL AI/Deep Learning/11. Sigmoid Differentiation.md",
+    "001 Daily Tasks/Jun 21 2025, Sat.md",
+    "100 ML DL AI/Deep Learning/04.1 Activation Functions.md",
+    "100 ML DL AI/Deep Learning/04 Artificial Neural Networks (ANN).md",
+    "100 ML DL AI/Deep Learning/02.1 Types of Neural Networks.md",
+    "100 ML DL AI/Deep Learning/02. Neural Networks.md",
+    "100 ML DL AI/Deep Learning/01. Deep Learning.md",
+    "100 ML DL AI/Deep Learning/03. Perceptron.md",
+    "100 ML DL AI/Deep Learning/Backward Propagation.md",
+    "100 ML DL AI/Deep Learning/Feed Forward Neural Network (FNN).md",
+    "100 ML DL AI/Deep Learning/Transformers.md",
+    "100 ML DL AI/Deep Learning/03.11 MLPs.md",
+    "100 ML DL AI/Deep Learning/03.1 XOR Problem.md",
+    "100 ML DL AI/Deep Learning/02.1 Neuron.md",
+    "001 Daily Tasks/Jun 20 2025, Fri.md",
+    "200 Sigma/2.1 Arrays.md",
+    "201 Database/SQL.md",
+    "999 Templates/Problems.md",
+    "001 Daily Tasks/Jun 18 2025, Wed.md",
+    "200 Sigma/LC 54 Spiral Matrix.md",
+    "200 Sigma/LC 152.md",
+    "201 Database/Table_DB_Lecture_ApnaCollege.png",
+    "201 Database",
+    "Untitled.canvas",
+    "100 ML DL AI/Machine Learning/Linear_Transformation_Visualization - Eigen Vector.png",
+    "100 ML DL AI/Machine Learning",
+    "100 ML DL AI/NLP",
+    "100 ML DL AI/GenAI",
+    "100 ML DL AI/Deep Learning",
+    "100 ML DL AI/Python",
+    "100 ML DL AI",
+    "200 Sigma",
+    "000 Quick Notes",
+    "999 Templates"
+  ]
+}

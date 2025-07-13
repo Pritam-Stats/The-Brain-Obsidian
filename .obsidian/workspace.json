@@ -8,108 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29e5d94480d1c9b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "201 Database/Intro to Database.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Intro to Database"
-            }
-          },
-          {
-            "id": "a1e1c4f82b985d15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "201 Database/MongoDB.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MongoDB"
-            }
-          },
-          {
-            "id": "5582de57de8ae285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Sigma/Binary Numbers System.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Binary Numbers System"
-            }
-          },
-          {
-            "id": "2a97cc029e26e501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Queue and Deque.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Queue and Deque"
-            }
-          },
-          {
             "id": "93c6dea1d1b229ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Sigma/Get Set Clear i-th Bit.md",
+                "file": "000 Quick Notes/Recovery Plan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Get Set Clear i-th Bit"
+              "title": "Recovery Plan"
             }
           },
           {
-            "id": "05cf0c79ac9ef0f9",
+            "id": "ae5a1dd454c2c8d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Sigma/Two's Complement.md",
+                "file": "000 Quick Notes/Recovery Plan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Two's Complement"
-            }
-          },
-          {
-            "id": "8f90d5badf7d25ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 Daily Tasks/Jul 10 2025, Thu.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Jul 10 2025, Thu"
+              "title": "Recovery Plan"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
-    "collapsed": true
+    "width": 217.5
   },
   "right": {
     "id": "4dceb438958c66b5",
@@ -321,17 +200,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "93c6dea1d1b229ff",
+  "active": "ae5a1dd454c2c8d0",
   "lastOpenFiles": [
-    "200 Sigma/Bit Manipulation.md",
-    "200 Sigma/Two's Complement.md",
-    "200 Sigma/Get Set Clear i-th Bit.md",
-    "200 Sigma/Binary Numbers System.md",
-    "200 Sigma/One's Complement.md",
-    "001 Daily Tasks/Jul 10 2025, Thu.md",
-    "201 Database/Intro to Database.md",
+    "001 Daily Tasks/Jul 13 2025, Sun.md",
+    "000 Quick Notes/Recovery Plan.md",
     "999 Templates/Simple TODO.md",
+    "200 Sigma & DSA/LC 516 - Longest Palindromic SubSequence.md",
+    "001 Daily Tasks/June 10, 2025 (Tue).md",
+    "200 Sigma & DSA/LC 1143 - Longest Common SubSequence.md",
+    "Pasted image 20250713213447.png",
+    "200 Sigma & DSA/Two's Complement.md",
+    "201 Database/Intro to Database.md",
     "201 Database/MongoDB.md",
+    "200 Sigma & DSA/Binary Numbers System.md",
+    "001 Daily Tasks/Jul 10 2025, Thu.md",
+    "001 Daily Tasks/Jul 12 2025, Sat.md",
+    "200 Sigma & DSA/LC 162 - Find Peak Element.md",
+    "001 Daily Tasks/Jul 11 2025, Fri.md",
+    "200 Sigma & DSA/Get Set Clear i-th Bit.md",
+    "200 Sigma & DSA/Bit Manipulation.md",
+    "200 Sigma & DSA/One's Complement.md",
     "000 Quick Notes/CS Topics to Learn.md",
     "001 Daily Tasks/Jul 9 2025, Wed.md",
     "999 Templates/Daily To Do.md",
@@ -341,15 +229,7 @@
     "999 Templates/AI & ML DS.md",
     "001 Daily Tasks/Jul 8 2025, Tue.md",
     "000 Quick Notes/Backend Dev Roadmap.md",
-    "200 Sigma/Trapping Rainwater.md",
-    "001 Daily Tasks/Jul 6 2025, Sun.md",
-    "200 Sigma/2.1 Arrays.md",
-    "001 Daily Tasks/Jul 3 2025, Thu.md",
-    "100 ML DL AI/Deep Learning/01. Deep Learning.md",
-    "100 ML DL AI/Deep Learning/02. Neural Networks.md",
     "201 Database/Table_DB_Lecture_ApnaCollege.png",
-    "001 Daily Tasks/Jul 5 2025, Sat.md",
-    "001 Daily Tasks/Jul 4 2025, Fri.md",
     "201 Database",
     "Untitled.canvas",
     "100 ML DL AI/Machine Learning/Linear_Transformation_Visualization - Eigen Vector.png",
@@ -359,7 +239,7 @@
     "100 ML DL AI/Deep Learning",
     "100 ML DL AI/Python",
     "100 ML DL AI",
-    "200 Sigma",
+    "200 Sigma & DSA",
     "000 Quick Notes",
     "999 Templates"
   ]

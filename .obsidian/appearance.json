@@ -1,7 +1,7 @@
 {
-  "accentColor": "#ceb71c",
-  "cssTheme": "Prism",
-  "theme": "obsidian",
+  "accentColor": "#6aa0ec",
+  "cssTheme": "Catppuccin",
+  "theme": "system",
   "baseFontSize": 18,
   "interfaceFontFamily": ""
 }

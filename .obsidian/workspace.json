@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Quick Notes/Recovery Plan.md",
+                "file": "200 Sigma & DSA/2.1 Arrays.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Recovery Plan"
+              "title": "2.1 Arrays"
             }
           }
         ],
@@ -202,6 +202,7 @@
   },
   "active": "ae5a1dd454c2c8d0",
   "lastOpenFiles": [
+    "100 ML DL AI/Deep Learning/01. Deep Learning.md",
     "001 Daily Tasks/Jul 13 2025, Sun.md",
     "000 Quick Notes/Recovery Plan.md",
     "999 Templates/Simple TODO.md",
@@ -228,7 +229,6 @@
     "999 Templates/Problems.md",
     "999 Templates/AI & ML DS.md",
     "001 Daily Tasks/Jul 8 2025, Tue.md",
-    "000 Quick Notes/Backend Dev Roadmap.md",
     "201 Database/Table_DB_Lecture_ApnaCollege.png",
     "201 Database",
     "Untitled.canvas",

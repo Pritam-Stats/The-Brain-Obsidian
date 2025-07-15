@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c77981ef65716761",
+        "id": "c9155d47cc3c02e4",
         "type": "tabs",
         "children": [
           {
-            "id": "93c6dea1d1b229ff",
+            "id": "3d4e7c4935c6deee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Quick Notes/Recovery Plan.md",
+                "file": "001 Daily Tasks/16 July 2025, Wed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Recovery Plan"
-            }
-          },
-          {
-            "id": "ae5a1dd454c2c8d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Sigma & DSA/2.1 Arrays.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2.1 Arrays"
+              "title": "16 July 2025, Wed"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,35 +175,38 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ae5a1dd454c2c8d0",
+  "active": "3d4e7c4935c6deee",
   "lastOpenFiles": [
-    "100 ML DL AI/Deep Learning/01. Deep Learning.md",
-    "001 Daily Tasks/Jul 13 2025, Sun.md",
-    "000 Quick Notes/Recovery Plan.md",
+    "001 Daily Tasks/14 July 2025, Mon.md",
+    "001 Daily Tasks/15 July 2025, Tue.md",
+    "001 Daily Tasks/16 July 2025, Wed.md",
     "999 Templates/Simple TODO.md",
+    "Excalidraw/Drawing 2025-07-16 02.04.04.excalidraw.md",
+    "200 Sigma & DSA/2.1 Arrays.md",
+    "Excalidraw",
+    "001 Daily Tasks/Untitled 4.md",
+    "001 Daily Tasks/Untitled 3.md",
+    "001 Daily Tasks/Untitled 2.md",
+    "300 Sigma & Web Dev/000. Overview of Web Development.md",
+    "200 Sigma & DSA/LC 647 - Palindromic SubString.md",
     "200 Sigma & DSA/LC 516 - Longest Palindromic SubSequence.md",
-    "001 Daily Tasks/June 10, 2025 (Tue).md",
-    "200 Sigma & DSA/LC 1143 - Longest Common SubSequence.md",
+    "200 Sigma & DSA/LC 152.md",
+    "300 Sigma & Web Dev/010. HTML.md",
+    "000 Quick Notes/001. GFG Nation Skill Up Course.md",
+    "000 Quick Notes/Untitled.md",
+    "000 Quick Notes/Plan.md",
+    "200 Sigma & DSA/LC 5 - Longest Palindromic Substring.md",
+    "300 Sigma & Web Dev/Untitled.md",
+    "300 Sigma & Web Dev/002. Intro to Some Important Terms.md",
+    "300 Sigma & Web Dev/nslookup.io.md",
+    "300 Sigma & Web Dev/internet_intro.png",
+    "300 Sigma & Web Dev/001. Intro and Initial Message from SK.md",
+    "001 Daily Tasks/Untitled 1.md",
+    "001 Daily Tasks/Jul 13 2025, Sun.md",
+    "001 Daily Tasks/Untitled.md",
+    "000 Quick Notes/Recovery Plan.md",
+    "300 Sigma & Web Dev",
     "Pasted image 20250713213447.png",
-    "200 Sigma & DSA/Two's Complement.md",
-    "201 Database/Intro to Database.md",
-    "201 Database/MongoDB.md",
-    "200 Sigma & DSA/Binary Numbers System.md",
-    "001 Daily Tasks/Jul 10 2025, Thu.md",
-    "001 Daily Tasks/Jul 12 2025, Sat.md",
-    "200 Sigma & DSA/LC 162 - Find Peak Element.md",
-    "001 Daily Tasks/Jul 11 2025, Fri.md",
-    "200 Sigma & DSA/Get Set Clear i-th Bit.md",
-    "200 Sigma & DSA/Bit Manipulation.md",
-    "200 Sigma & DSA/One's Complement.md",
-    "000 Quick Notes/CS Topics to Learn.md",
-    "001 Daily Tasks/Jul 9 2025, Wed.md",
-    "999 Templates/Daily To Do.md",
-    "999 Templates/Sigma Class Notes.md",
-    "000 Quick Notes/Queue and Deque.md",
-    "999 Templates/Problems.md",
-    "999 Templates/AI & ML DS.md",
-    "001 Daily Tasks/Jul 8 2025, Tue.md",
     "201 Database/Table_DB_Lecture_ApnaCollege.png",
     "201 Database",
     "Untitled.canvas",
@@ -239,8 +217,6 @@
     "100 ML DL AI/Deep Learning",
     "100 ML DL AI/Python",
     "100 ML DL AI",
-    "200 Sigma & DSA",
-    "000 Quick Notes",
-    "999 Templates"
+    "200 Sigma & DSA"
   ]
 }

@@ -86,8 +86,7 @@
       "key": "Q"
     }
   ],
-  "file-explorer:new-file": [],
-  "file-explorer:new-file-in-current-tab": [
+  "file-explorer:new-file": [
     {
       "modifiers": [
         "Mod"
@@ -134,6 +133,32 @@
         "Mod"
       ],
       "key": "-"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "editor:add-cursor-below": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
+    }
+  ],
+  "daily-notes:goto-prev": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "T"
     }
   ]
 }

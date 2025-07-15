@@ -1,7 +1,6 @@
-- **Related Topic** : [[]]
-- **Created** : {{date}} | {{time}}
-- **Platform** :
-
+- **Date :** {{date}} | {{time}}
+- **Platform / Instructor :** 
+- **Motive / Goal :** 
 ---
 
 

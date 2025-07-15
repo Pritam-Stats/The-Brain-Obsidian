@@ -1,6 +1,8 @@
 ## Target
 - [ ]   
 
+### Plan for the Day
+
 ---
 ### EOD Evaluation
 - Woke Up at: 

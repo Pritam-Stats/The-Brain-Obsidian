@@ -1,7 +1,5 @@
-- **Related Topic :  [[]]
-- **Created** : {{date}} | {{time}}
+- **Date :** {{date}} | {{time}}
 - *Tags*: 
-
 ---
 
 

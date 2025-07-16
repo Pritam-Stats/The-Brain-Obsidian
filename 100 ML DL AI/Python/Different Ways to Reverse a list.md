@@ -1,4 +1,4 @@
-**Topic :  [[2.1 Arrays]]
+**Topic :  [[2.00 Arrays]]
 **Created** : June 12, 2025 | 11:56 PM
 *Tags*: #DSA #Easy #python 
 

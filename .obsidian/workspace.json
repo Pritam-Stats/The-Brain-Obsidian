@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c9155d47cc3c02e4",
+        "id": "ee627a5960c9760b",
         "type": "tabs",
         "children": [
           {
-            "id": "3d4e7c4935c6deee",
+            "id": "c7d293e570dc9ee4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 Daily Tasks/16 July 2025, Wed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "16 July 2025, Wed"
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 200
   },
   "right": {
     "id": "4dceb438958c66b5",
@@ -175,36 +161,39 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3d4e7c4935c6deee",
+  "active": "fa1329cb4f57f56b",
   "lastOpenFiles": [
+    "001 Daily Tasks/17 July 2025, Thu.md",
+    "001 Daily Tasks/16 July 2025, Wed.md",
+    "200 Sigma & DSA/4.11 LC 1021 Remove OuterMost parentheses.md",
+    "200 Sigma & DSA/4.00 Strings.md",
+    "200 Sigma & DSA/2.02 Sorting Algorithms.md",
+    "200 Sigma & DSA/2.01 Binary Search.md",
+    "010 Python Quick Notes/GFG Week 1.md",
+    "010 Python Quick Notes/gfg1_13.md",
+    "010 Python Quick Notes/gfg1_13.png",
+    "010 Python Quick Notes/gfg_Python_Day1.png",
+    "200 Sigma & DSA/3.02 Bit Manipulation.md",
+    "010 Python Quick Notes",
+    "200 Sigma & DSA/3.12 Two's Complement.md",
+    "200 Sigma & DSA/3.11 One's Complement.md",
+    "200 Sigma & DSA/3.10 Get Set Clear i-th Bit.md",
+    "200 Sigma & DSA/LC 1143 - Longest Common SubSequence.md",
+    "200 Sigma & DSA/2.20 LC 42 Trapping Rainwater.md",
+    "200 Sigma & DSA/LC 647 - Palindromic SubString.md",
+    "200 Sigma & DSA/2.16 LC 162 - Find Peak Element.md",
+    "200 Sigma & DSA/2.17 LC 152.md",
+    "200 Sigma & DSA/2.14 LC 75 Sort Colors.md",
+    "200 Sigma & DSA/LC 54 Spiral Matrix.md",
+    "200 Sigma & DSA/LC 5 - Longest Palindromic Substring.md",
+    "200 Sigma & DSA/2.15 LC 33 Max Sub Array Product.md",
+    "200 Sigma & DSA/2.13 LC 121 Buy & Sell Stocks.md",
     "001 Daily Tasks/14 July 2025, Mon.md",
     "001 Daily Tasks/15 July 2025, Tue.md",
-    "001 Daily Tasks/16 July 2025, Wed.md",
     "999 Templates/Simple TODO.md",
     "Excalidraw/Drawing 2025-07-16 02.04.04.excalidraw.md",
-    "200 Sigma & DSA/2.1 Arrays.md",
     "Excalidraw",
-    "001 Daily Tasks/Untitled 4.md",
-    "001 Daily Tasks/Untitled 3.md",
-    "001 Daily Tasks/Untitled 2.md",
-    "300 Sigma & Web Dev/000. Overview of Web Development.md",
-    "200 Sigma & DSA/LC 647 - Palindromic SubString.md",
-    "200 Sigma & DSA/LC 516 - Longest Palindromic SubSequence.md",
-    "200 Sigma & DSA/LC 152.md",
-    "300 Sigma & Web Dev/010. HTML.md",
-    "000 Quick Notes/001. GFG Nation Skill Up Course.md",
-    "000 Quick Notes/Untitled.md",
-    "000 Quick Notes/Plan.md",
-    "200 Sigma & DSA/LC 5 - Longest Palindromic Substring.md",
-    "300 Sigma & Web Dev/Untitled.md",
-    "300 Sigma & Web Dev/002. Intro to Some Important Terms.md",
-    "300 Sigma & Web Dev/nslookup.io.md",
     "300 Sigma & Web Dev/internet_intro.png",
-    "300 Sigma & Web Dev/001. Intro and Initial Message from SK.md",
-    "001 Daily Tasks/Untitled 1.md",
-    "001 Daily Tasks/Jul 13 2025, Sun.md",
-    "001 Daily Tasks/Untitled.md",
-    "000 Quick Notes/Recovery Plan.md",
     "300 Sigma & Web Dev",
     "Pasted image 20250713213447.png",
     "201 Database/Table_DB_Lecture_ApnaCollege.png",
@@ -216,7 +205,6 @@
     "100 ML DL AI/GenAI",
     "100 ML DL AI/Deep Learning",
     "100 ML DL AI/Python",
-    "100 ML DL AI",
-    "200 Sigma & DSA"
+    "100 ML DL AI"
   ]
 }

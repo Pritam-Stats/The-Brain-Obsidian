@@ -1,6 +1,6 @@
 **Problem Link** : [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 **Date** : June 19, 2025
-**Topic** : [[2.1 Arrays]]
+**Topic** : [[2.00 Arrays]]
 **Difficulty** : #Medium 
 
 ---

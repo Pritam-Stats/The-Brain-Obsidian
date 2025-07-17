@@ -11,10 +11,24 @@
             "id": "c7d293e570dc9ee4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001 Daily Tasks/17 July 2025, Thu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "17 July 2025, Thu"
             }
           }
         ]
@@ -161,9 +175,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fa1329cb4f57f56b",
+  "active": "c7d293e570dc9ee4",
   "lastOpenFiles": [
+    "010 Python Quick Notes/OOP.md",
     "001 Daily Tasks/17 July 2025, Thu.md",
+    "200 Sigma & DSA/3.14 LC 50 Power of n.md",
+    "200 Sigma & DSA/3.13 Fast Exponentiation.md",
+    "200 Sigma & DSA/3.10 Get Set Clear i-th Bit.md",
+    "010 Python Quick Notes/Standard Library Overview.md",
+    "000 Quick Notes/002. ML Projects and Future Plan.md",
+    "000 Quick Notes/001. GFG Nation Skill Up Course.md",
     "001 Daily Tasks/16 July 2025, Wed.md",
     "200 Sigma & DSA/4.11 LC 1021 Remove OuterMost parentheses.md",
     "200 Sigma & DSA/4.00 Strings.md",
@@ -177,7 +198,6 @@
     "010 Python Quick Notes",
     "200 Sigma & DSA/3.12 Two's Complement.md",
     "200 Sigma & DSA/3.11 One's Complement.md",
-    "200 Sigma & DSA/3.10 Get Set Clear i-th Bit.md",
     "200 Sigma & DSA/LC 1143 - Longest Common SubSequence.md",
     "200 Sigma & DSA/2.20 LC 42 Trapping Rainwater.md",
     "200 Sigma & DSA/LC 647 - Palindromic SubString.md",
@@ -186,12 +206,6 @@
     "200 Sigma & DSA/2.14 LC 75 Sort Colors.md",
     "200 Sigma & DSA/LC 54 Spiral Matrix.md",
     "200 Sigma & DSA/LC 5 - Longest Palindromic Substring.md",
-    "200 Sigma & DSA/2.15 LC 33 Max Sub Array Product.md",
-    "200 Sigma & DSA/2.13 LC 121 Buy & Sell Stocks.md",
-    "001 Daily Tasks/14 July 2025, Mon.md",
-    "001 Daily Tasks/15 July 2025, Tue.md",
-    "999 Templates/Simple TODO.md",
-    "Excalidraw/Drawing 2025-07-16 02.04.04.excalidraw.md",
     "Excalidraw",
     "300 Sigma & Web Dev/internet_intro.png",
     "300 Sigma & Web Dev",

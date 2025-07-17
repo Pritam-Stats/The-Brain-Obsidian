@@ -1,5 +1,5 @@
 ## Target
-- [ ]  Sigma and Udemy DSA
+- [x]  Sigma and Udemy DSA
 	- [ ] Learn a new topic
 - [ ] ML - Restructure
 - [ ] Kaggle Titanic
@@ -11,13 +11,14 @@ To Start with DSA.
 
 ---
 ### EOD Evaluation
-- Woke Up at: 
+- Woke Up at: `4 PM`
 - *Writing Task at:* `2 AM`
-- *1st Session at:*
+- *1st Session at:* `5.30 - 9PM`
 - *2nd Session at:* 
 - *Score out of 10:* 
 
 #### A Basic Journal
 Let's hope for a good day.
+- *5 pm* - Starting the day, i will try to make the day productive.
 
 <center><b>Krishnaya Vasudevaya Hare Paramatmane, Pranatah Kleshanashaya Govindaya Namo Namah.</b></center>

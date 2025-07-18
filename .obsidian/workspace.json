@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee627a5960c9760b",
+        "id": "8143ec2643d39e69",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d293e570dc9ee4",
+            "id": "b80c26c7f4068e42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Daily Tasks/18 July 2025, Fri.md",
+                "file": "001 Daily Tasks/19 July 2025, Sat.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "18 July 2025, Fri"
+              "title": "19 July 2025, Sat"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4dceb438958c66b5",
@@ -175,10 +176,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c7d293e570dc9ee4",
+  "active": "b80c26c7f4068e42",
   "lastOpenFiles": [
-    "200 Sigma & DSA/4.12 LC 1903. Largest Odd Number in String.md",
+    "010 Python Quick Notes/Code Snippets Questions.md",
+    "300 Sigma & Web Dev/0. How much development i want to know?.md",
+    "001 Daily Tasks/19 July 2025, Sat.md",
+    "300 Sigma & Web Dev/010. HTML.md",
     "001 Daily Tasks/18 July 2025, Fri.md",
+    "200 Sigma & DSA/4.12 LC 1903. Largest Odd Number in String.md",
     "Untitled.canvas",
     "001 Daily Tasks/17 July 2025, Thu.md",
     "200 Sigma & DSA/LC 70 Climbing Stairs.md",
@@ -203,10 +208,6 @@
     "200 Sigma & DSA/3.12 Two's Complement.md",
     "200 Sigma & DSA/3.11 One's Complement.md",
     "200 Sigma & DSA/LC 1143 - Longest Common SubSequence.md",
-    "200 Sigma & DSA/2.20 LC 42 Trapping Rainwater.md",
-    "200 Sigma & DSA/LC 647 - Palindromic SubString.md",
-    "200 Sigma & DSA/2.16 LC 162 - Find Peak Element.md",
-    "200 Sigma & DSA/2.17 LC 152.md",
     "Excalidraw",
     "300 Sigma & Web Dev/internet_intro.png",
     "300 Sigma & Web Dev",

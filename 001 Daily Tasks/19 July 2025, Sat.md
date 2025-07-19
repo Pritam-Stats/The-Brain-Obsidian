@@ -19,5 +19,6 @@ Todays plan is that i won't sleep. Will start with DSA.
 
 #### A Basic Journal
 From tonight i will try to fix my sleep.
+- Nothing Productive. or effective. Spending time but nothing is happening.
 
 <center><b>Krishnaya Vasudevaya Hare Paramatmane, Pranatah Kleshanashaya Govindaya Namo Namah.</b></center>

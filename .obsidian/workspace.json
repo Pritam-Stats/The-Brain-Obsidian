@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b80c26c7f4068e42",
+            "id": "28893dd845cc5813",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Daily Tasks/19 July 2025, Sat.md",
+                "file": "200 Sigma & DSA/1.00 Maths & Combinatorics - Number Theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "19 July 2025, Sat"
+              "title": "1.00 Maths & Combinatorics - Number Theory"
+            }
+          },
+          {
+            "id": "3dbbc7221f12860b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Sigma & DSA/1.01 LC 204 Count Primes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.01 LC 204 Count Primes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4dceb438958c66b5",
@@ -176,16 +200,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b80c26c7f4068e42",
+  "active": "3dbbc7221f12860b",
   "lastOpenFiles": [
+    "200 Sigma & DSA/1.00 Maths & Combinatorics - Number Theory.md",
+    "200 Sigma & DSA/1.01 LC 204 Count Primes.md",
+    "200 Sigma & DSA/Untitled.md",
+    "001 Daily Tasks/19 July 2025, Sat.md",
+    "200 Sigma & DSA/1.00 Maths & Combinatorics",
+    "001 Daily Tasks/July 2025/Jul 13 2025, Sun.md",
+    "001 Daily Tasks/May-June 2025/Jun 12 2025, Thu.md",
+    "001 Daily Tasks/July 2025",
+    "001 Daily Tasks/May-June 2025",
     "010 Python Quick Notes/Code Snippets Questions.md",
     "300 Sigma & Web Dev/0. How much development i want to know?.md",
-    "001 Daily Tasks/19 July 2025, Sat.md",
     "300 Sigma & Web Dev/010. HTML.md",
     "001 Daily Tasks/18 July 2025, Fri.md",
     "200 Sigma & DSA/4.12 LC 1903. Largest Odd Number in String.md",
     "Untitled.canvas",
-    "001 Daily Tasks/17 July 2025, Thu.md",
+    "001 Daily Tasks/July 2025/17 July 2025, Thu.md",
     "200 Sigma & DSA/LC 70 Climbing Stairs.md",
     "010 Python Quick Notes/OOP.md",
     "200 Sigma & DSA/3.14 LC 50 Power of n.md",
@@ -194,20 +226,15 @@
     "010 Python Quick Notes/Standard Library Overview.md",
     "000 Quick Notes/002. ML Projects and Future Plan.md",
     "000 Quick Notes/001. GFG Nation Skill Up Course.md",
-    "001 Daily Tasks/16 July 2025, Wed.md",
+    "001 Daily Tasks/July 2025/16 July 2025, Wed.md",
     "200 Sigma & DSA/4.11 LC 1021 Remove OuterMost parentheses.md",
     "200 Sigma & DSA/4.00 Strings.md",
     "200 Sigma & DSA/2.02 Sorting Algorithms.md",
     "200 Sigma & DSA/2.01 Binary Search.md",
     "010 Python Quick Notes/GFG Week 1.md",
-    "010 Python Quick Notes/gfg1_13.md",
     "010 Python Quick Notes/gfg1_13.png",
     "010 Python Quick Notes/gfg_Python_Day1.png",
-    "200 Sigma & DSA/3.02 Bit Manipulation.md",
     "010 Python Quick Notes",
-    "200 Sigma & DSA/3.12 Two's Complement.md",
-    "200 Sigma & DSA/3.11 One's Complement.md",
-    "200 Sigma & DSA/LC 1143 - Longest Common SubSequence.md",
     "Excalidraw",
     "300 Sigma & Web Dev/internet_intro.png",
     "300 Sigma & Web Dev",
@@ -217,9 +244,6 @@
     "100 ML DL AI/Machine Learning/Linear_Transformation_Visualization - Eigen Vector.png",
     "100 ML DL AI/Machine Learning",
     "100 ML DL AI/NLP",
-    "100 ML DL AI/GenAI",
-    "100 ML DL AI/Deep Learning",
-    "100 ML DL AI/Python",
-    "100 ML DL AI"
+    "100 ML DL AI/GenAI"
   ]
 }

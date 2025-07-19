@@ -1,6 +1,6 @@
 ## Target
 - [ ] DSA - Sigma and Udemy Recursion Start
-	- [ ] GFG DSA Maths and Combinatorics
+	- [x] GFG DSA Maths and Combinatorics
 - [ ] Update on Sigma Development
 	- [ ] gfg development
 - [ ] ML DL read from GFG. Plan project from PW.

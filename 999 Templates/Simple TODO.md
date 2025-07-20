@@ -5,7 +5,7 @@
 
 ---
 ### EOD Evaluation
-- **Woke Up at : **
+- **Woke Up at :**
 - *Writing Task at :* 
 - *1st Session at :*
 - *2nd Session at :* 

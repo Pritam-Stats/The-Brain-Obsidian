@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Daily Tasks/20 July 2025, Sun.md",
+                "file": "001 Daily Tasks/21 July 2025, Mon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20 July 2025, Sun"
+              "title": "21 July 2025, Mon"
             }
           }
         ]
@@ -177,14 +177,15 @@
   },
   "active": "9f7dbf8172aa9945",
   "lastOpenFiles": [
+    "999 Templates/Simple TODO.md",
+    "001 Daily Tasks/21 July 2025, Mon.md",
+    "001 Daily Tasks/20 July 2025, Sun.md",
     "200 Sigma & DSA/5.00 Recursion.md",
     "200 Sigma & DSA/4.13 LC205 Isomorphic Strings.md",
-    "001 Daily Tasks/20 July 2025, Sun.md",
     "400 Puzzles for Tech Interviews/100 Puzzles for Technical Interview by GFG Nation Skill Up.md",
     "400 Puzzles for Tech Interviews",
     "001 Daily Tasks/July 2025/18 July 2025, Fri.md",
     "001 Daily Tasks/19 July 2025, Sat.md",
-    "999 Templates/Simple TODO.md",
     "101 ML Projects/Algerian Forest Fire.md",
     "999 Templates/ML Projects.md",
     "001 Daily Tasks/Untitled.md",
@@ -209,7 +210,6 @@
     "001 Daily Tasks/May-June 2025/Jun 12 2025, Thu.md",
     "001 Daily Tasks/July 2025",
     "001 Daily Tasks/May-June 2025",
-    "010 Python Quick Notes/Code Snippets Questions.md",
     "Untitled.canvas",
     "010 Python Quick Notes/gfg1_13.png",
     "010 Python Quick Notes/gfg_Python_Day1.png",

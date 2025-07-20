@@ -1,8 +1,7 @@
 - **Problem Link** : [Problem Name](Paste the Link)
-- **Date** : {{date}}
+- **Solved** : {{date}} | {{time}}
 - **Topic** : [[]]
 - **Difficulty** :
-
 ---
 ### Summary Description: 
 - 

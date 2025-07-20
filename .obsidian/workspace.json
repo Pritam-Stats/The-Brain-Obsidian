@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "20 July 2025, Sun"
             }
+          },
+          {
+            "id": "063976cbd279fc9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101 ML Projects/Algerian Forest Fire.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Algerian Forest Fire"
+            }
           }
         ]
       }
@@ -177,6 +201,14 @@
   },
   "active": "ed22796c3b42d257",
   "lastOpenFiles": [
+    "001 Daily Tasks/July 2025/18 July 2025, Fri.md",
+    "001 Daily Tasks/19 July 2025, Sat.md",
+    "001 Daily Tasks/20 July 2025, Sun.md",
+    "999 Templates/Simple TODO.md",
+    "101 ML Projects/Algerian Forest Fire.md",
+    "999 Templates/ML Projects.md",
+    "001 Daily Tasks/Untitled.md",
+    "101 ML Projects",
     "300 Sigma & Web Dev/000. Overview of Web Development - By GFG.md",
     "300 Sigma & Web Dev/API_gfg.png",
     "300 Sigma & Web Dev/010. HTML.md",
@@ -187,13 +219,10 @@
     "999 Templates/DSA Class Notes.md",
     "999 Templates/Problems.md",
     "999 Templates/Daily To Do.md",
-    "001 Daily Tasks/20 July 2025, Sun.md",
     "200 Sigma & DSA/1.01 LC 204 Count Primes.md",
     "200 Sigma & DSA/1.00 Maths & Combinatorics - Number Theory - By GFG.md",
     "300 Sigma & Web Dev/internet_intro.png",
     "300 Sigma & Web Dev/nslookup.io.md",
-    "001 Daily Tasks/July 2025/18 July 2025, Fri.md",
-    "001 Daily Tasks/19 July 2025, Sat.md",
     "200 Sigma & DSA/Untitled.md",
     "200 Sigma & DSA/1.00 Maths & Combinatorics",
     "001 Daily Tasks/July 2025/Jul 13 2025, Sun.md",
@@ -205,9 +234,6 @@
     "Untitled.canvas",
     "001 Daily Tasks/July 2025/17 July 2025, Thu.md",
     "200 Sigma & DSA/LC 70 Climbing Stairs.md",
-    "010 Python Quick Notes/OOP.md",
-    "200 Sigma & DSA/3.14 LC 50 Power of n.md",
-    "200 Sigma & DSA/3.13 Fast Exponentiation.md",
     "010 Python Quick Notes/gfg1_13.png",
     "010 Python Quick Notes/gfg_Python_Day1.png",
     "010 Python Quick Notes",
@@ -218,7 +244,6 @@
     "201 Database",
     "100 ML DL AI/Machine Learning/Linear_Transformation_Visualization - Eigen Vector.png",
     "100 ML DL AI/Machine Learning",
-    "100 ML DL AI/NLP",
-    "100 ML DL AI/GenAI"
+    "100 ML DL AI/NLP"
   ]
 }

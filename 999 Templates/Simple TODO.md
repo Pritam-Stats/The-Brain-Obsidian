@@ -5,11 +5,11 @@
 
 ---
 ### EOD Evaluation
-- Woke Up at: 
-- *Writing Task at:* 
-- *1st Session at:*
-- *2nd Session at:* 
-- *Score out of 10:* 
+- **Woke Up at : **
+- *Writing Task at :* 
+- *1st Session at :*
+- *2nd Session at :* 
+- *Score out of 10 :* 
 
 #### A Basic Journal
 

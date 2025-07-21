@@ -2,6 +2,7 @@
 - [ ] ML Project start
 	- [ ] If needed GFG Data Science course will help do the revision
 - [ ] DSA Sigma Recursion
+	- [ ] GFG DSA course update
 - [ ] Sigma Development
 - [ ] Though for an small calculator app project, EMI and FD calculator
 ### Plan for the Day

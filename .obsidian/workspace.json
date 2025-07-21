@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Daily Tasks/21 July 2025, Mon.md",
+                "file": "001 Daily Tasks/22 July 2025, Tue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "21 July 2025, Mon"
+              "title": "22 July 2025, Tue"
             }
           }
         ]
@@ -177,9 +177,9 @@
   },
   "active": "9f7dbf8172aa9945",
   "lastOpenFiles": [
+    "001 Daily Tasks/21 July 2025, Mon.md",
     "001 Daily Tasks/22 July 2025, Tue.md",
     "001 Daily Tasks/July 2025/19 July 2025, Sat.md",
-    "001 Daily Tasks/21 July 2025, Mon.md",
     "999 Templates/Simple TODO.md",
     "001 Daily Tasks/20 July 2025, Sun.md",
     "200 Sigma & DSA/5.00 Recursion.md",

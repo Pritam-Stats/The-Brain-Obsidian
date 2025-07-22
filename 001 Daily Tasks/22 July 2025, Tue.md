@@ -14,9 +14,11 @@
 - *Writing Task at :* `12AM`
 - *1st Session at :*
 - *2nd Session at :* 
-- *Score out of 10 :* 
+- *Score out of 10 :* `0`
 
 #### A Basic Journal
-Hoping for an Effective day.
+Hoping for an Effective day. <br>
+It's 3.45 Pm and i haven't started, still facing problem with sleep and schedule.
+It's a break day, i couldn't do anything but it's a good family time. Been with my brother, father. A good discussion, conversation. Overall a good day but not good as my performance should be. Tomorrow has to be very very good.
 
 <center><b>Krishnaya Vasudevaya Hare Paramatmane, Pranatah Kleshanashaya Govindaya Namo Namah.</b></center>

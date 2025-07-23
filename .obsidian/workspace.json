@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b9c71687f3c7cea",
+        "id": "68ce4df7254751a3",
         "type": "tabs",
         "children": [
           {
-            "id": "9f7dbf8172aa9945",
+            "id": "f7a225a86270ca9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Daily Tasks/23 July 2025, Wed.md",
+                "file": "001 Daily Tasks/24 July 2025, Thu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "23 July 2025, Wed"
+              "title": "24 July 2025, Thu"
             }
           }
         ]
@@ -175,12 +175,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f7dbf8172aa9945",
+  "active": "f7a225a86270ca9b",
   "lastOpenFiles": [
-    "001 Daily Tasks/21 July 2025, Mon.md",
-    "001 Daily Tasks/20 July 2025, Sun.md",
-    "001 Daily Tasks/23 July 2025, Wed.md",
-    "001 Daily Tasks/22 July 2025, Tue.md",
+    "001 Daily Tasks/July 2025/21 July 2025, Mon.md",
+    "001 Daily Tasks/24 July 2025, Thu.md",
+    "001 Daily Tasks/July 2025/23 July 2025, Wed.md",
+    "001 Daily Tasks/July 2025/20 July 2025, Sun.md",
+    "001 Daily Tasks/July 2025/22 July 2025, Tue.md",
     "001 Daily Tasks/July 2025/19 July 2025, Sat.md",
     "999 Templates/Simple TODO.md",
     "200 Sigma & DSA/5.00 Recursion.md",
@@ -206,7 +207,6 @@
     "200 Sigma & DSA/1.00 Maths & Combinatorics - Number Theory - By GFG.md",
     "300 Sigma & Web Dev/internet_intro.png",
     "300 Sigma & Web Dev/nslookup.io.md",
-    "200 Sigma & DSA/Untitled.md",
     "200 Sigma & DSA/1.00 Maths & Combinatorics",
     "001 Daily Tasks/July 2025",
     "001 Daily Tasks/May-June 2025",
